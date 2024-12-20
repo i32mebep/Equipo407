@@ -123,6 +123,11 @@ proyecto_sicue/
 
 ## 👥 Autores
 
-- **Rafael Martín Victorio**
-- **Pedro Medina Becerra**  
+- **[Tu Nombre]**  
   Proyecto desarrollado para la asignatura de Ingeniería del Software, Universidad de Córdoba.
+
+---
+
+## 🔗 Enlaces Útiles
+
+- [Documentación Oficial del Programa SICUE](https://www.sicue.es)
