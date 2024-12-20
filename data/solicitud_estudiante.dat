@@ -1,0 +1,107 @@
+DNI: 12345678A
+Nombre: Juan
+Fecha: 2024-12-20
+Estado: Pendiente
+Planes seleccionados (Orden de preferencia):
+Preferencia 1:
+Carrera: Grado en Informática
+Universidad: Universidad de Córdoba
+Facultad: Facultad de Ciencias
+Duracion: Cuatrimestre
+Asignaturas:
+- Programación (6 créditos)
+- Álgebra (6 créditos)
+- Redes de Computadoras (6 créditos)
+- Inteligencia Artificial (6 créditos)
+--------------------------------------
+--------------------------------------
+DNI: 12345678D
+Nombre: Pepe
+Fecha: 2024-12-20
+Estado: Pendiente
+Planes seleccionados (Orden de preferencia):
+Preferencia 1:
+Carrera: Grado en Informática
+Universidad: Universidad de Sevilla
+Facultad: Facultad de Informática
+Duracion: Año completo
+Asignaturas:
+- Cálculo (6 créditos)
+- Física (6 créditos)
+- Bases de Datos (6 créditos)
+- Inteligencia Artificial (6 créditos)
+--------------------------------------
+Preferencia 2:
+Carrera: Grado en Informática
+Universidad: Universidad de Córdoba
+Facultad: Facultad de Ciencias
+Duracion: Cuatrimestre
+Asignaturas:
+- Programación (6 créditos)
+- Álgebra (6 créditos)
+- Redes de Computadoras (6 créditos)
+- Inteligencia Artificial (6 créditos)
+--------------------------------------
+--------------------------------------
+DNI: 123456789J
+Nombre: Manuel
+Fecha: 2024-12-20
+Estado: Pendiente
+Planes seleccionados (Orden de preferencia):
+Preferencia 1:
+Carrera: Grado en Informática
+Universidad: Universidad de Córdoba
+Facultad: EPSC
+Duracion: Cuatrimestre
+Asignaturas:
+- Cálculo (6 creditos)
+- Física (6 creditos)
+- Programación (6 creditos)
+--------------------------------------
+Preferencia 2:
+Carrera: Grado en Informática
+Universidad: Universidad de Córdoba
+Facultad: Facultad de Ciencias
+Duracion: Cuatrimestre
+Asignaturas:
+- Programación (6 créditos)
+- Álgebra (6 créditos)
+- Redes de Computadoras (6 créditos)
+- Inteligencia Artificial (6 créditos)
+--------------------------------------
+--------------------------------------
+DNI: 987654321E
+Nombre: Martín
+Fecha: 2024-12-20
+Estado: Pendiente
+Planes seleccionados (Orden de preferencia):
+Preferencia 1:
+Carrera: Grado en Informática
+Universidad: Universidad de Málaga
+Facultad: ETSI
+Duracion: Cuatrimestre
+Asignaturas:
+- Fundamentos de Computadores (6 creditos)
+--------------------------------------
+Preferencia 2:
+Carrera: Grado en Informática
+Universidad: Universidad de Sevilla
+Facultad: Facultad de Informática
+Duracion: Año completo
+Asignaturas:
+- Cálculo (6 créditos)
+- Física (6 créditos)
+- Bases de Datos (6 créditos)
+- Inteligencia Artificial (6 créditos)
+--------------------------------------
+Preferencia 3:
+Carrera: Grado en Informática
+Universidad: Universidad de Córdoba
+Facultad: EPSC
+Duracion: Cuatrimestre
+Asignaturas:
+- Cálculo (6 creditos)
+- Física (6 creditos)
+- Programación (6 creditos)
+--------------------------------------
+--------------------------------------
